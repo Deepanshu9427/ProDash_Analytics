@@ -39,7 +39,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/prodash-analytics.git
+   git clone https://github.com/Deepanshu9427/ProDash_Analytics.git
    cd prodash-analytics
    ```
 
@@ -61,13 +61,13 @@ To run this project on your local machine, follow these steps:
 ## 📸 UI Screenshots
 
 ### Login Page
-![Login Screenshot](screenshots/Screenshot 2025-12-31 122400.png)
+![Login Screenshot](screenshots/Screenshot%202025-12-31%20122400.png)
 
 ### Dashboard Overview
-![Dashboard Screenshot](screenshots/Screenshot 2025-12-31 122456.png)
+![Dashboard Screenshot](screenshots/Screenshot%202025-12-31%20122456.png)
 
 ### User Profile
-![Profile Screenshot](screenshots/Screenshot 2025-12-31 122537.png)
+![Profile Screenshot](screenshots/Screenshot%202025-12-31%20122537.png)
 
 ## 📝 Dependencies Used
 
